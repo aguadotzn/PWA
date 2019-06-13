@@ -3,12 +3,12 @@
 
 Let´s create something cool! 🚀
 
-![Logo](https://www.thurrott.com/wp-content/uploads/2018/02/pwa.jpg)
+![Logo](https://s3.amazonaws.com/revue/items/images/002/996/791/mail/1_U01ubQ9TrE1Zow5pkGHTfw.png?1526898738)
 
 
 ## Description
 
-This repo is been created to learn about PWAs. I follow [this](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0) codelab. 
+This repo is been created to learn about PWAs. I will follow [this](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0) codelab. 
 
 
 ## Minimum requirements
